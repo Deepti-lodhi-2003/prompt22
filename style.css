@@ -50,11 +50,12 @@ nav a {
     font-size: 18px;
     background-color: #e60073;
     color: white;
+    border-radius: 5px;
     border: none;
     cursor: pointer;
 }
 .gallery{
-    background: linear-gradient(to right, #3C3D37,#557C56);
+    background: linear-gradient(to bottom, #1E201E,#021526);
 }
 .portfolio h2 {
     margin-top: 50px;
@@ -65,6 +66,7 @@ nav a {
     margin: 10px 5px;
     padding: 10px 20px;
     border: none;
+    border-radius: 5px;
     background-color: #e60073;
     color: white;
     cursor: pointer;
@@ -80,6 +82,7 @@ nav a {
 .gallery .item img {
     width: 100%;
     height: auto;
+    border-radius: 5px;
     border: 5px solid white;
 }
 
